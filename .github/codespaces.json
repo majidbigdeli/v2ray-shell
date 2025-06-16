@@ -1,0 +1,4 @@
+{
+  "forwardPorts": [10086],
+  "postCreateCommand": "bash startup.sh &"
+}
