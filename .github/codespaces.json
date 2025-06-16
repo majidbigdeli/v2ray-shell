@@ -1,4 +1,6 @@
 {
-  "forwardPorts": [10086],
-  "postCreateCommand": "bash startup.sh &"
+  "forwardPorts": [
+    10086
+  ],
+  "postCreateCommand": "bash ./startup_fhs.sh &"
 }
